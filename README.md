@@ -18,5 +18,3 @@ En este repositorio se deben subir los siguientes entregables (indispensables pa
 2. Un MVP mínimo viable (código) subido en una carpeta dentro de estar repo.
 3. Arquitectura de la solución (formato: PDF/PNG/JPEG).
 4. Usar el agente de inteligencia artificial de NEAR protocol.
-   
-OPCIONAL: Link a video de youtube del elevator pitch
